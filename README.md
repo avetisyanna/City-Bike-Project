@@ -13,7 +13,9 @@ It follows a step-by-step data analytics workflow: downloading data, cleaning an
 ├── README.md
 ├── requirements.txt
 ├── data
-│   └── JC
+│   └── citibike
+            └── JC ── .gitkeep
+├── .gitignore
 └── notebooks
     ├── 1_Download_Citibike_Jersey_Data.ipynb
     ├── 2_Data_Enrichment.ipynb
