@@ -1,5 +1,2 @@
-data/JC/*.csv
-data/JC/*.zip
-data/JC/*.geojson
-
-postgis_data/
+data/citibike/JC/*
+!data/citibike/JC/.gitkeep
