@@ -1,4 +1,4 @@
-# 🚲 Citi Bike Data Analysis Project
+# Citi Bike Data Analysis Project
 
 This project analyzes Jersey City Citi Bike trip data for 2025.
 
@@ -6,7 +6,7 @@ It follows a step-by-step data analytics workflow: downloading data, cleaning an
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 .
@@ -26,7 +26,7 @@ It follows a step-by-step data analytics workflow: downloading data, cleaning an
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3**: Main programming language
 - **Pandas & NumPy**: Data cleaning, transformation, and aggregation
@@ -37,7 +37,7 @@ It follows a step-by-step data analytics workflow: downloading data, cleaning an
 
 ---
 
-## 📊 Project Workflow
+## Project Workflow
 
 ### 1. Data Download
 
@@ -83,13 +83,13 @@ The final notebook focuses on geospatial analysis, including:
 
 ---
 
-## 📌 Main Goal
+## Main Goal
 
 The goal of this project is to practice a complete data analytics workflow using real-world transportation data and to understand how ride activity changes across time, stations, weather conditions, and neighborhoods.
 
 ---
 
-## 🚧 Note
+## Note
 
 This project was completed as part of my learning process in data analytics.
 
