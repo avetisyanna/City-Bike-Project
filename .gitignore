@@ -1,2 +1,4 @@
 data/citibike/JC/*
 !data/citibike/JC/.gitkeep
+
+/postgis_data
